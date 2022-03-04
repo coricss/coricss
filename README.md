@@ -46,7 +46,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
 
 ## 📁 My Latest Project:
-#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing our project in Capstone, one of the main requirements to graduate from college. Hoping that I will pass this semester and find some good internships in tech industries related to my course. I also created some laravel projects to grow and progress my skills.
+#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing our project in Capstone, one of the main requirements to graduate from college. Hoping that I will pass this semester and find some good internships in tech industries related to my course. I also developing some laravel projects to grow and progress my skills.
 
 ## ⚙ My Skills:
 <p align="left">
