@@ -66,6 +66,7 @@
 
 ## ⚽ My Goals This Year:
  #### &nbsp;&nbsp;&nbsp;&nbsp; I am expecting that I will be able to experience being in a team in web development. I also aiming to create more web apps this year to build a well-organized and convincing portfolio.
+ 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
