@@ -23,7 +23,7 @@
        src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />
 </a>
 &nbsp;
-<a href="https://twitter.com/rixxxx__" target="_blank" >
+<a href="https://twitter.com/corix__" target="_blank" >
   <img align="center" 
        alt="Twitter" 
        width="35px" 
