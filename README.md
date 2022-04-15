@@ -48,7 +48,7 @@
 ## 📁 My Latest Project:
 #### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing our project in Capstone, one of the main requirements to graduate from college. Hoping that I will pass this semester and find some good internships in tech industries related to my course. I also developing some laravel projects to grow and progress my skills.
 
-## ⚙ My Skills:
+## ⚙ Technology Stacks:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50" />
