@@ -39,7 +39,7 @@
 
 <img align="right" width=85px height=85px alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 
-### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I particularly enjoy coding in ```PHP Language```. I am currently learning some frameworks such as Laravel and Vue.
+### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I particularly enjoy coding in ```PHP Language```. I am currently learning some frameworks such as Laravel and Vue.js
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
