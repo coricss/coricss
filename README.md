@@ -44,7 +44,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 📁 My Latest Project:
 #### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing our project in Capstone, one of the main requirements to graduate from college. Hoping that I will pass this semester and find some good internships in tech industries related to my course. I also developing some laravel projects to grow and progress my skills.
 
