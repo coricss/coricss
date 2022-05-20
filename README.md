@@ -1,4 +1,4 @@
-# <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span> Hi, My name is Rico Guinanao.
+# <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" width="36px" /></span> Hi, My name is Rico Guinanao.
 
 ![](https://komarev.com/ghpvc/?username=coricss&label=Profile+Views:)
 
@@ -37,7 +37,7 @@
        src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
 
-<img align="right" width=85px height=85px alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+<!-- <img align="right" width="85px" height="85px" alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" /> -->
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I particularly enjoy coding in ```PHP Language```. I am currently learning some frameworks such as Laravel and Vue.js
 
