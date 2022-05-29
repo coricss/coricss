@@ -37,7 +37,7 @@
        src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
 </a>
 
-<img align="right" width="85px" height="85px" alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+<!-- <img align="right" width="85px" height="85px" alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" /> -->
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I particularly enjoy coding in ```PHP Language```. I am currently learning some frameworks such as Laravel and Vue.js
 
