@@ -46,7 +46,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
 
 ## 📁 My Latest Project:
-#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a payroll system for local government for my intership, one of the main requirements to graduate from college. Hoping that I will pass this last semester and work in some good tech industries related to my course. I also developing some laravel projects to grow and progress my skills.
+#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a payroll system for local government for my intership, one of the main requirements to graduate from college. I also developing some laravel projects to grow and progress my skills.
 
 ## ⚙ Technology Stacks:
 <p align="left">
@@ -65,7 +65,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&show_icons=true&theme=github_dark&hide border=false&line_height=25" alt="javascript" width="450"/>
 
 ## ⚽ My Goals This Year:
- #### &nbsp;&nbsp;&nbsp;&nbsp; I am aiming to create more web apps this year to build a well-organized and convincing portfolio to showcase my personal information, skills and services.
+ #### &nbsp;&nbsp;&nbsp;&nbsp; I am aiming to create more web apps this year to build a well-organized and convincing portfolio to showcase my personal information, skills and services. I am hoping that I will pass this last semester and work in some good tech industries related to my course. 
  
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
