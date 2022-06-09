@@ -1,11 +1,12 @@
 # <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" width="40px" height="40px" /></span> Hi, My name is Rico Guinanao.
 
+Badges:
 
-![](https://komarev.com/ghpvc/?username=coricss&label=Profile+Views:) 
-
-![](https://www.codewars.com/users/corixx/badges/micro) 
-
+![](https://komarev.com/ghpvc/?username=coricss&label=Profile+Views:)
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4273?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+![](https://www.codewars.com/users/corixx/badges/micro) 
+ 
+ Socials:
  
 <a href="https://www.linkedin.com/in/guinanaorico/" target="_blank" >
   <img align="center" 
