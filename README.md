@@ -2,6 +2,9 @@
 
 
 ![](https://komarev.com/ghpvc/?username=coricss&label=Profile+Views:) 
+
+![](https://www.codewars.com/users/corixx/badges/micro) 
+
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4273?logoColor=white%26project=%26recentMS=0%26showProject=false" />
  
 <a href="https://www.linkedin.com/in/guinanaorico/" target="_blank" >
