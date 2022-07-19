@@ -45,14 +45,14 @@
 
 <img align="right" width="85px" height="85px" alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 
-### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I particularly enjoy coding in ```PHP Language```. I am currently learning some frameworks such as Laravel and Vue.js
+### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I am currently learning some frameworks such as Laravel and React.js
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
 
 ## 📁 My Latest Project:
-#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a payroll system for local government for my intership, one of the main requirements to graduate from college. I also developing some laravel projects to grow and progress my skills.
+#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a payroll system for my intership, one of the main requirements to graduate from college. I also developing some laravel projects to grow and progress my skills.
 
 ## ⚙ Technology Stacks:
 <p align="left">
