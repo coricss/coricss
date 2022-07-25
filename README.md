@@ -45,7 +45,7 @@
 
 <img align="right" width="85px" height="85px" alt="side_sticker" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 
-### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I am currently learning some frameworks such as Laravel and React.js
+### &nbsp;&nbsp;&nbsp;&nbsp; I'm an average Web Developer. I am currently learning some frameworks such as Laravel and React JS
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
