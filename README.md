@@ -3,6 +3,7 @@
 ##### Badges:
 
 ![](https://komarev.com/ghpvc/?username=coricss&label=Profile+Views:)
+[![wakatime](https://wakatime.com/badge/user/4377dc9b-af3d-4049-88ec-5697283ef451.svg)](https://wakatime.com/@4377dc9b-af3d-4049-88ec-5697283ef451)
 ![](https://www.codewars.com/users/corixx/badges/micro) 
 <!---img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4273?logoColor=white%26project=%26recentMS=0%26showProject=false" /--->
 
