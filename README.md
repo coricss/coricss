@@ -56,7 +56,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing my web portfolio to showcase my projects and skills in web development.
 
 ## ⚙ Technology Stacks:
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50" />
