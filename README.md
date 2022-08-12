@@ -56,17 +56,23 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing my web portfolio to showcase my projects and skills in web development.
 
 ## ⚙ Technology Stacks:
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="50" height="50" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="65" height="65" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="html5" width="60" height="60" />
   
         
