@@ -62,14 +62,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="50" height="50" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="65" height="65" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="html5" width="60" height="60" />
+  
+        
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&show_icons=true&theme=github_dark&hide border=false&line_height=25" alt="javascript" width="450"/>
+<!---img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&show_icons=true&theme=github_dark&hide border=false&line_height=25" alt="javascript" width="450"/--->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="javascript" width="450"/>
+
 
 ## 🎯 My Goals This Year:
  #### &nbsp;&nbsp;&nbsp;&nbsp; I am aiming to create more web apps this year to build a well-organized and convincing portfolio to showcase my personal information, skills and services. I am hoping that I will pass this last semester and work in some good tech industries related to my course. 
