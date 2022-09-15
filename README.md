@@ -85,7 +85,7 @@
 
 
 ## 🎯 My Goals This Year:
- #### &nbsp;&nbsp;&nbsp;&nbsp; I aim to create more web apps this year and build a well-organized, convincing portfolio to showcase my personal information, web development skills, and services. I am hoping that some decent tech companies will hire me as an entry-level web developer/junior developer.
+ #### &nbsp;&nbsp;&nbsp;&nbsp; I aim to create more web apps this year and build a well-organized, convincing portfolio to showcase my personal information, web development skills, and services. I am hoping that some decent tech companies will hire me as an entry-level web developer/junior developer..
  
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
