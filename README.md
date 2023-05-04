@@ -99,6 +99,4 @@
   </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/83864808/234749943-8a1b3bdf-abbe-4c97-8656-4cf3db478d88.png)
-
 
