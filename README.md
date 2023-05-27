@@ -99,10 +99,6 @@
   </a>
 </p>
 
- ![hapihapi](https://github.com/coricss/coricss/assets/83864808/27d7400f-f7de-4efc-90f9-cacb1e154a86)
- 
- ![image](https://github.com/coricss/coricss/assets/83864808/2a7a1a87-cef0-4b7d-84b8-20def65c851c)
-
 
 
 
