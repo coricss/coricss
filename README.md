@@ -56,7 +56,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
 
 ## 📁 My Latest Project:
-#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing my web portfolio to showcase my projects and skills in web development.
+#### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing openai chatbot that can help people with mental health.
 
 ## ⚙ Technology Stacks:
 <p align="left">
