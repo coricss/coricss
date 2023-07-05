@@ -53,7 +53,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark" alt="javascript" width="350" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coricss&theme=github_dark&hide_border=true" alt="javascript" width="350" />
 
 ## 📁 My Latest Project:
 #### &nbsp;&nbsp;&nbsp;&nbsp; I am currently developing openai chatbot that can help people with mental health.
@@ -84,7 +84,7 @@
 
 <!---img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&show_icons=true&theme=github_dark&hide border=false&line_height=25" alt="javascript" width="450"/--->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&rank_icon=github&theme=github_dark&show_icons=true&hide_border=false&count_private=true" alt="javascript" width="450"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=coricss&include_all_commits=true&rank_icon=github&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="javascript" width="450"/>
 
 ## 🎯 My Goals This Year:
  #### &nbsp;&nbsp;&nbsp;&nbsp; I aim to create more web apps this year and build a well-organized, convincing portfolio to showcase my personal information, web development skills, and services. I am hoping that some decent tech companies will hire me as an entry-level web developer/junior developer.
