@@ -3,7 +3,7 @@
 ##### Badges:
 
 ![](https://komarev.com/ghpvc/?style=flat-square&username=coricss&label=Profile+Visits:)
-[![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&color=darkgreen&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D4273%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&label=CODE+TIME&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D4273%26project%3D%26in%3D0)](https://codetime.dev)
 ![](https://www.codewars.com/users/corixx/badges/micro) 
 
 [![An image of @coricss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coricss)](https://holopin.io/@coricss)
