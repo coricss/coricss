@@ -6,6 +6,8 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&label=CODE+TIME&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D4273%26project%3D%26in%3D0)](https://codetime.dev)
 ![](https://www.codewars.com/users/corixx/badges/micro) 
 
+##### Holopin Badges:
+
 [![An image of @coricss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coricss)](https://holopin.io/@coricss)
 
 <!---img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4273?logoColor=white%26project=%26recentMS=0%26showProject=false" /--->
