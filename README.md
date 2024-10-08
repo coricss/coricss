@@ -83,8 +83,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="html5" width="50" height="50" />
-  
-        
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
